@@ -1,0 +1,32 @@
+[
+    {
+        "image": "/images/book.png",
+        "name": "Book-Store",
+        "description": "First MERN Stack Project",
+        "githubLink": "https://github.com/Duc-dev-starter/Book-Store"
+    },
+    {
+        "image": "/images/ducflix.png",
+        "name": "Ducflix",
+        "description": "Web movie",
+        "githubLink": "https://github.com/Duc-dev-starter/Ducflix"
+    },
+    {
+        "image": "/images/le.png",
+        "name": "LE-SSERAFIM-Fanpage",
+        "description": "Website for girl group Kpop",
+        "githubLink": "https://github.com/Duc-dev-starter/LE-SSERAFIM-Fanpage"
+    },
+    {
+        "image": "/images/portfolio.png",
+        "name": "My-portfolio",
+        "description": "A small website for girl group Kpop",
+        "githubLink": "https://github.com/Duc-dev-starter/LE-SSERAFIM-Fanpage"
+    },
+    {
+        "image": "/images/node.png",
+        "name": "Nodejs_blog",
+        "description": "Nodejs and handlebars",
+        "githubLink": "https://github.com/Duc-dev-starter/Nodejs_blog"
+    }
+]
