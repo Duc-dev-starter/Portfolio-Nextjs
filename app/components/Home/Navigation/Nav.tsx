@@ -27,13 +27,13 @@ const Nav = ({ openNav }: Props) => {
                         <Link href="/">Home</Link>
                     </li>
                     <li className="text-[17px] font-semibold transition-all duration-200 cursor-pointer text-black hover:text-yellow-400">
-                        <Link href="/">About</Link>
+                        <Link href="#about">About</Link>
                     </li>
                     <li className="text-[17px] font-semibold transition-all duration-200 cursor-pointer text-black hover:text-yellow-400">
-                        <Link href="/">Programming Language</Link>
+                        <Link href="#language">Programming Language</Link>
                     </li>
                     <li className="text-[17px] font-semibold transition-all duration-200 cursor-pointer text-black hover:text-yellow-400">
-                        <Link href="/">Projects</Link>
+                        <Link href="#projects">Projects</Link>
                     </li>
                 </ul>
                 <div className="flex items-center space-x-4">

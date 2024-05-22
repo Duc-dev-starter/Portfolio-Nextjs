@@ -9,7 +9,7 @@ import Image from 'next/image'
 
 const About = () => {
     return (
-        <div className='pt-20 pb-16 bg-customWhite'>
+        <div id='about' className='pt-20 pb-16 bg-customWhite'>
             {/* Section Heading */}
             <SectionHeading heading="About Me" />
             {/* define grid system */}

@@ -5,7 +5,7 @@ import projectsData from '@/public/projects.json'; // Adjust the path as necessa
 
 const Projects = () => {
     return (
-        <div className='pt-20 pb-16 bg-customWhite'>
+        <div id='projects' className='pt-20 pb-16 bg-customWhite'>
             {/* section heading */}
             <SectionHeading heading='My Projects' />
             {/* define the grid system */}

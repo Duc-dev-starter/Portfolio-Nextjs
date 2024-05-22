@@ -5,7 +5,7 @@ import { SiCsharp } from 'react-icons/si' // Import the C# icon
 
 const Feature = () => {
     return (
-        <div className='pt-20 pb-16 bg-customWhite'>
+        <div id='language' className='pt-20 pb-16 bg-customWhite'>
             {/* Section Heading */}
             <SectionHeading heading='Programming Language' />
             {/* define grid system */}
@@ -62,10 +62,10 @@ const Feature = () => {
                         {/* icon */}
                         <SiCsharp className='mx-auto mt-8 w-16 h-16 text-white' />
                         <h1 className='text-base text-center mt-8 mb-4 md:text-xl text-white font-semibold'>
-                            Python
+                            C#
                         </h1>
                         <p className='text-center text-white text-opacity-70'>
-                            Python is a popular language known for its simplicity and readability.
+                            C# is a popular language known for its simplicity and readability.
                         </p>
                     </div>
                 </div>
